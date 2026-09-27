@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOSapp-install"
+  short_description: "Install iOS apps by USB, LAN, or configured OTA"
+  default_prompt: "Use $iosapp-install to build and install the current iOS app on my iPhone using USB, local network, or configured OTA."
